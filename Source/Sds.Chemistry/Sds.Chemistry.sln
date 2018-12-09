@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sds.Chemistry", "Sds.Chemistry\Sds.Chemistry.csproj", "{BA49E07B-EB02-4A3E-8BC0-ADDB744CAF6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7A8EE655-12E6-4CE4-92F3-8A5D445F755A}"
+	ProjectSection(SolutionItems) = preProject
+		Sds.Chemistry.nuspec = Sds.Chemistry.nuspec
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA49E07B-EB02-4A3E-8BC0-ADDB744CAF6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA49E07B-EB02-4A3E-8BC0-ADDB744CAF6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA49E07B-EB02-4A3E-8BC0-ADDB744CAF6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA49E07B-EB02-4A3E-8BC0-ADDB744CAF6B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
